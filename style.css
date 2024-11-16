@@ -4,10 +4,6 @@
     box-sizing: border-box;
 }
 
-html{
-    font-size: 62.5%; /* 1rem = 10px */
-}
-
 body{
     font-family: "Lato", sans-serif;
     font-weight: 400;
@@ -30,18 +26,18 @@ body{
     7px 6px 1px #ccc;
 }
 
-.main-title h1{
+/* .main-title h1{
     font-size: 7rem;
     text-transform: uppercase;
     font-weight: 800;
     color: #555;
-}
+} */
 
-.main-title h2{
+/* .main-title h2{
     font-size: 4rem;
     font-weight: 300;
     text-transform: uppercase;
-}
+} */
 
 .svg-img{
    display: block;
